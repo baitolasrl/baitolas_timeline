@@ -106,21 +106,17 @@
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0, 0, 0, 0.8);
+    overflow: auto; /* Permite rolar a página caso a imagem seja maior que a tela */
     align-items: center;
     justify-content: center;
   }
 
-  .modal-content {
-    width: 80%;
-    max-width: 500px;
-    text-align: center;
-    color: white;
-    font-size: 20px;
-  }
-
   .modal-content img {
-    width: 100%;
+    width: auto;
+    height: auto;
+    max-width: none; /* Removendo restrições para que a imagem abra no tamanho normal */
+    max-height: none;
   }
 
   /* Responsividade para dispositivos móveis */
