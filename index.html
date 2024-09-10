@@ -120,7 +120,10 @@
   }
 
   .modal-content img {
-    width: 100%;
+    max-width: 100%;
+    max-height: 100vh; /* Garante que a altura máxima não ultrapasse a tela */
+    object-fit: contain; /* Ajusta a imagem para caber no modal sem distorções */
+    margin: auto; /* Centraliza a imagem no modal */
   }
 
   /* Responsividade para dispositivos móveis */
@@ -151,7 +154,6 @@
       font-size: 1.2rem;
     }
   }
-
 </style>
 </head>
 <body>
