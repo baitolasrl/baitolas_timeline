@@ -1,24 +1,57 @@
 {
   "events": [
     {
-      "name": "Event 1",
-      "description": "Description of Event 1",
-      "photos": ["events/event_1/photo1.jpg", "events/event_1/photo2.jpg"]
+      "name": "Donnana Bistrô",
+      "description": "Nosso primeiro encontro em Catalão! Você estava simplesmente estonteante com seu vestido vermelho (Lady in Red?) e acabamos indo combinando KKKKKK. Foi um encontro muito especial, restaurante ótimo e não preciso nem dizer do vinho né?",
+      "photos": [
+        "events/donnana/image_1.jpg",
+        "events/donnana/image_2.jpg",
+        "events/donnana/image_3.jpg",
+        "events/donnana/image_4.jpg",
+        "events/donnana/image_5.jpg",
+        "events/donnana/image_6.jpg",
+        "events/donnana/image_7.jpg"
+      ]
     },
     {
-      "name": "Event 2",
-      "description": "Description of Event 2",
-      "photos": ["events/event_2/photo1.jpg", "events/event_2/photo2.jpg"]
+      "name": "Zimbro Cocktails & Co.",
+      "description": "Nesse encontro assistimos divertidamente e depois fomos almoçar em um restaurante ''mais cara de Ramon'' KKKKKKKKK foi muuuuito gostoso! Meu divertidamente da ansiedade estava doido esperando por esse dia :p",
+      "photos": [
+        "events/zimbro/image_1.jpg",
+        "events/zimbro/image_2.jpg",
+        "events/zimbro/image_3.jpg",
+        "events/zimbro/image_4.jpg"
+      ]
     },
     {
-      "name": "Event 3",
-      "description": "Description of Event 3",
-      "photos": ["events/event_3/photo1.jpg"]
+      "name": "Unico Lounge Bar",
+      "description": "Experimentamos um rolê diferente em Catalão e foi ótimo! A música estava muito boa, os drinks, mas faltou o Pane e Penne (temos que voltar lá para experimentar depois hein?)",
+      "photos": [
+        "events/unico/image_1.jpg",
+        "events/unico/image_2.jpg",
+        "events/unico/image_3.jpg",
+        "events/unico/image_4.jpg",
+        "events/unico/image_5.jpg"
+      ]
     },
     {
-      "name": "Event 4",
-      "description": "Description of Event 4",
-      "photos": ["events/event_4/photo1.jpg", "events/event_4/photo2.jpg"]
+      "name": "Armazém Laquís Culinária Árabe",
+      "description": "Depois de muitas tentativas não sucedidas de experimentar o Laquís, finalmente conseguimos!!! A culinária realmente é bem diferente (''bangladesh'' tava daquele jeito), mas valeu a pena.",
+      "photos": [
+        "events/laquis/image_1.jpg",
+        "events/laquis/image_2.jpg",
+        "events/laquis/image_3.jpg"
+      ]
+    },
+    {
+      "name": "Piquenique - Parque Paquetá",
+      "description": "Primeiro piquenique (de verdade) nosso hehehe! Chegamos cedo e o parque estava vazio, só pra gente :) Com certeza foi o momento mais especial dessa viagem...",
+      "photos": [
+        "events/piquenique/image_1.jpg",
+        "events/piquenique/image_2.jpg",
+        "events/piquenique/image_3.jpg",
+        "events/piquenique/image_4.jpg"
+      ]
     }
   ]
 }
