@@ -2,7 +2,7 @@
   "events": [
     {
       "name": "Donnana Bistrô",
-      "description": "Nosso primeiro encontro em Catalão! Você estava simplesmente estonteante com seu vestido vermelho (Lady in Red?) e acabamos indo combinando KKKKKK. Foi um encontro muito especial, restaurante ótimo e não preciso nem dizer do vinho né?",
+      "description": "Nosso primeiro encontro em Catalão! Você estava simplesmente estonteante com seu vestido vermelho (Lady in Red?) e acabamos indo combinando KKKKKK. Foi um encontro muito especial, restaurante ótimo e não preciso nem dizer do vinho né? ~ Ramon",
       "photos": [
         "events/donnana/image_1.jpg",
         "events/donnana/image_2.jpg",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Zimbro Cocktails & Co.",
-      "description": "Nesse encontro assistimos divertidamente e depois fomos almoçar em um restaurante ''mais cara de Ramon'' KKKKKKKKK foi muuuuito gostoso! Meu divertidamente da ansiedade estava doido esperando por esse dia :p",
+      "description": "Nesse encontro assistimos divertidamente e depois fomos almoçar em um restaurante ''mais cara de Ramon'' KKKKKKKKK foi muuuuito gostoso! Meu divertidamente da ansiedade estava doido esperando por esse dia :p ~ Ramon",
       "photos": [
         "events/zimbro/image_1.jpg",
         "events/zimbro/image_2.jpg",
@@ -25,7 +25,7 @@
     },
     {
       "name": "Unico Lounge Bar",
-      "description": "Experimentamos um rolê diferente em Catalão e foi ótimo! A música estava muito boa, os drinks, mas faltou o Pane e Penne (temos que voltar lá para experimentar depois hein?)",
+      "description": "Experimentamos um rolê diferente em Catalão e foi ótimo! A música estava muito boa, os drinks, mas faltou o Pane e Penne (temos que voltar lá para experimentar depois hein?) ~ Ramon",
       "photos": [
         "events/unico/image_1.jpg",
         "events/unico/image_2.jpg",
@@ -36,7 +36,7 @@
     },
     {
       "name": "Armazém Laquís Culinária Árabe",
-      "description": "Depois de muitas tentativas não sucedidas de experimentar o Laquís, finalmente conseguimos!!! A culinária realmente é bem diferente (''bangladesh'' tava daquele jeito), mas valeu a pena.",
+      "description": "Depois de muitas tentativas não sucedidas de experimentar o Laquís, finalmente conseguimos!!! A culinária realmente é bem diferente (''bangladesh'' tava daquele jeito), mas valeu a pena. ~ Ramon",
       "photos": [
         "events/laquis/image_1.jpg",
         "events/laquis/image_2.jpg",
@@ -45,12 +45,23 @@
     },
     {
       "name": "Piquenique - Parque Paquetá",
-      "description": "Primeiro piquenique (de verdade) nosso hehehe! Chegamos cedo e o parque estava vazio, só pra gente :) Com certeza foi o momento mais especial dessa viagem...",
+      "description": "Primeiro piquenique (de verdade) nosso hehehe! Chegamos cedo e o parque estava vazio, só pra gente :) Com certeza foi o momento mais especial dessa viagem... ~ Ramon",
       "photos": [
         "events/piquenique/image_1.jpg",
         "events/piquenique/image_2.jpg",
         "events/piquenique/image_3.jpg",
         "events/piquenique/image_4.jpg"
+      ]
+    },
+    {
+      "name": "Pedido de Namoro",
+      "description": "Sobre esse momento, eu preciso confessar que não consegui conter minhas expectativas e, por mais que eu espere o melhor só por estar com você, estava com um medinho de me decepcionar KKKKKKK. Maaass você superou todas as minhas expectativas e foi tudo perfeito!!!! Amei cada detalhe! E acho que posso dizer que a gente se amou muito também ❤ (12h, pra ser mais exata 😂) ~ Laís",
+      "photos": [
+        "events/pedido_de_namoro/image_1.jpg",
+        "events/pedido_de_namoro/image_2.jpg",
+        "events/pedido_de_namoro/image_3.jpg",
+        "events/pedido_de_namoro/image_4.jpg",
+		"events/pedido_de_namoro/image_5.jpg"
       ]
     }
   ]
