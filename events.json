@@ -55,13 +55,32 @@
     },
     {
       "name": "Pedido de Namoro",
-      "description": "Sobre esse momento, eu preciso confessar que não consegui conter minhas expectativas e, por mais que eu espere o melhor só por estar com você, estava com um medinho de me decepcionar KKKKKKK. Maaass você superou todas as minhas expectativas e foi tudo perfeito!!!! Amei cada detalhe! E acho que posso dizer que a gente se amou muito também ❤ (12h, pra ser mais exata 😂) ~ Laís",
+      "description": "Sobre esse momento, eu preciso confessar que não consegui conter minhas expectativas e, por mais que eu espere o melhor só por estar com você, estava com um medinho de me decepcionar KKKKKKK. Maaass você superou todas as minhas expectativas e foi tudo perfeito!!!! Amei cada detalhe! E acho que posso dizer que a gente se amou muito também ❤ (12h, pra ser mais exata 😂) ~ Laís",
       "photos": [
         "events/pedido_de_namoro/image_1.jpg",
         "events/pedido_de_namoro/image_2.jpg",
         "events/pedido_de_namoro/image_3.jpg",
         "events/pedido_de_namoro/image_4.jpg",
-		"events/pedido_de_namoro/image_5.jpg"
+        "events/pedido_de_namoro/image_5.jpg"
+      ]
+    },
+    {
+      "name": "Férias no Aquário",
+      "description": "Enfim algumas férias, e nada melhor do que passar com meu amor. Foi tudo incrível: receitas, rolês, filmes, músicas, dança, master chef, conversas idiotas e profundas, jogos e até ioga. Aproveitei cada momento do seu lado, meu bem <3 ~ Ramon. Dessa vez, tivemos mais tempo para nos permitir ver e sermos vistos, foi um prazer me dividir em você. Oh, home, home is wherever I am with you <3 ~ Laís",
+      "photos": [
+        "events/ferias_outubro_2024/image_1.jpg",
+        "events/ferias_outubro_2024/image_2.jpg",
+        "events/ferias_outubro_2024/image_3.jpg",
+        "events/ferias_outubro_2024/image_4.jpg",
+        "events/ferias_outubro_2024/image_5.jpg",
+        "events/ferias_outubro_2024/image_6.jpg",
+        "events/ferias_outubro_2024/image_7.jpg",
+        "events/ferias_outubro_2024/image_8.jpg",
+        "events/ferias_outubro_2024/image_9.jpg",
+        "events/ferias_outubro_2024/image_10.jpg",
+        "events/ferias_outubro_2024/image_11.jpg",
+        "events/ferias_outubro_2024/image_12.jpg",
+        "events/ferias_outubro_2024/image_13.jpg"
       ]
     }
   ]
