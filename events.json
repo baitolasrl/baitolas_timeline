@@ -66,7 +66,7 @@
     },
     {
       "name": "Férias no Aquário",
-      "description": "Enfim algumas férias, e nada melhor do que passar com meu amor. Foi tudo incrível: receitas, rolês, filmes, músicas, dança, master chef, conversas idiotas e profundas, jogos e até ioga. Aproveitei cada momento do seu lado, meu bem <3 ~ Ramon. Dessa vez, tivemos mais tempo para nos permitir ver e sermos vistos, foi um prazer me dividir em você. Oh, home, home is wherever I am with you <3 ~ Laís",
+      "description": "Enfim algumas férias, e nada melhor do que passar com meu amor. Foi tudo incrível: receitas, rolês, filmes, músicas, dança, master chef, conversas idiotas e profundas, jogos e até ioga. Aproveitei cada momento do seu lado, meu bem <3 ~ Ramon | Dessa vez, tivemos mais tempo para nos permitir ver e sermos vistos, foi um prazer me dividir em você. Oh, home, home is wherever I am with you <3 ~ Laís",
       "photos": [
         "events/ferias_outubro_2024/image_1.jpg",
         "events/ferias_outubro_2024/image_2.jpg",
@@ -81,6 +81,18 @@
         "events/ferias_outubro_2024/image_11.jpg",
         "events/ferias_outubro_2024/image_12.jpg",
         "events/ferias_outubro_2024/image_13.jpg"
+      ]
+    },
+    {
+      "name": "Fim de Semana de Fantasias",
+      "description": "Esse foi um fim de semana de várias coisas novas! Conheci vários amigos e amigas do meu amor, fomos à uma festa universitária juntos pela primeira vez (E ERA À FANTASIA!!!), conseguimos finalmente ir no Speed Jack depois de diversas tentativas KKKKKKKK e mais um monte de coisas! Fiquei muito feliz de passar cada minuto dessa viagem ao seu lado, meu bem, tudo foi incrível! Ou melhor, tudo se torna incrível quando tenho sua companhia :) ~ Ramon | Me senti muito grata pelo esforço que você demonstrou para agradar meus amigos e às meninas que moram comigo e por me fazer sentir tão confortável em ser eu mesma, tanto na frente dos meus amigos quanto na festa ~ Laís",
+      "photos": [
+        "events/enfermed_novembro_2024/image_1.jpg",
+        "events/enfermed_novembro_2024/image_2.jpg",
+        "events/enfermed_novembro_2024/image_3.jpg",
+        "events/enfermed_novembro_2024/image_4.jpg",
+        "events/enfermed_novembro_2024/image_5.jpg",
+        "events/enfermed_novembro_2024/image_6.jpg"
       ]
     }
   ]
