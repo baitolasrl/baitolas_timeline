@@ -129,6 +129,22 @@
 		"events/carnaval_2025/image_5.jpg",
 		"events/carnaval_2025/image_6.jpg"
       ]
+    },
+    {
+      "name": "Viagem Piri",
+      "description": "Depois de dias planejando e perrengues passados, conseguimos finalmente fazer nossa primeira viagem em casal. Dizem por aí que a primeira viagem de um casal facilita um término, pois há coisas sobre o outro que ficam evidentes — e nem sempre isso convém. Mas o que eu posso dizer? Ao término de tudo, eu estava mais apaixonado por você, meu amor! É incrível como tudo é incrível ao seu lado, e, olhando para essa experiência, meu desejo é que tenhamos várias e várias viagens incríveis assim. Você é simplesmente a minha melhor companhia. :) ~ Ramon",
+      "photos": [
+        "events/piri_2025/image_1.jpg",
+        "events/piri_2025/image_2.jpg",
+        "events/piri_2025/image_3.jpg",
+        "events/piri_2025/image_4.jpg",
+		"events/piri_2025/image_5.jpg",
+		"events/piri_2025/image_6.jpg",
+		"events/piri_2025/image_7.jpg",
+		"events/piri_2025/image_8.jpg",
+		"events/piri_2025/image_9.jpg",
+		"events/piri_2025/image_10.jpg"
+      ]
     }
   ]
 }
